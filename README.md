@@ -1,4 +1,4 @@
-### 👋 I'm Dark-Vex
+## 👋 I'm Dark-Vex
 
 <!--
 **Dark-Vex/dark-vex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Daniele's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br /><br />
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dark-vex&show_icons=true)](https://github.com/dark-vex)
+
 <!--
 - System Administrator during the day.
 - Tech writer during the night (you can read my articles - in italian - on my blog).
