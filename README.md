@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dark-vex&show_icons=true)](https://github.com/dark-vex)
 
+[![GitHub Top 5 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-vex&langs_count=5)](https://github.com/dark-vex)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dark-vex)](https://github.com/dark-vex)
+
 <!--
 - System Administrator during the day.
 - Tech writer during the night (you can read my articles - in italian - on my blog).
